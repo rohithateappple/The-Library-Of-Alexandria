@@ -7,13 +7,13 @@ When I came across Jonathan Basile's Library of Babel implementaion on his websi
 
 
 ### Limitations
-Well obviously I couldn't store an infinite number of strings! So the core of it all, the character set is limited to just 32 characters - [a-z,.- !:]. Please keep this contraint in mind while inputting text. Next is the page limit, only 3200 characters per page is allowed. "pft so small" you say? Well how about you calculate what 3200^32 is huh? With the jokes aside, my library does contain an immense amount of information.
+Well obviously I couldn't store an infinite number of strings! So the core of it all, the character set is limited to just 32 characters - [a-z,.- !:]. Please keep this contraint in mind while inputting text. Next is the page limit, only 3200 characters per page is allowed. "pft so small" you say? Well how about you calculate what 3200^32 is huh? With the jokes aside, my library does contain an immense amount of information. More than the number of stars in our galaxy!
 
 ### Screenshot
 ![Screenshot (203)](https://user-images.githubusercontent.com/131531154/233830045-9b8302c1-7a80-445c-84cb-011075bd8cda.png)
 
 ### Closing Note
-I'd recommend anyone who doesn't understand the true value of this implementation to go check out a brief summary about the Library of Babel. I'm only saying this because I understand it can look very abstract and boring.
+I'd recommend anyone who doesn't understand the true value of this implementation to go check out a brief summary about the Library of Babel. I'm only saying this because I understand it can look very abstract and boring. Also if you want to know the underpinnings of this program, go watch my very own video on it: https://www.youtube.com/watch?v=oMGWI5zvAic
 
 ### What I Learnt
  - Cryptography, XOR, and Encryption.
