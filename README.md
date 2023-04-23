@@ -14,5 +14,5 @@ I'd recommend anyone who doesn't understand the true value of this implementatio
 
 ### What I Learnt
  - Cryptography, XOR, and Encryption.
- - Wokring in Windows Forms
- - Bit level programming
+ - Working in Windows Forms
+ - Bit level programming/ bit manipulation
