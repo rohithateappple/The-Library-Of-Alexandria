@@ -10,7 +10,7 @@ Well obviously I couldn't store an infinite number of strings so the core of it 
 ![Screenshot (203)](https://user-images.githubusercontent.com/131531154/233830045-9b8302c1-7a80-445c-84cb-011075bd8cda.png)
 
 ### Closing Note
-I'd recommend anyone who doesn't understand the true value of this implementation to go check out a brief summary about the Library of Babel. I'm only saying this because I understand it could look very much abstract and boring.
+I'd recommend anyone who doesn't understand the true value of this implementation to go check out a brief summary about the Library of Babel. I'm only saying this because I understand it can look very abstract and boring.
 
 ### What I Learnt
  - Cryptography, XOR, and Encryption.
